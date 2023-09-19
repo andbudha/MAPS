@@ -1,6 +1,6 @@
-/.idea
 
 # dependencies
 /node_modules
-/dist
 /.parcel-cache
+/dist
+
