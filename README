@@ -1,1 +1,3 @@
 //To run the app, use: npx parcel index.html 
+
+A small app displaying the random position of a randomly created user and company on the google map.
